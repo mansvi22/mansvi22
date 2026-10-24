@@ -1,6 +1,3 @@
-![Mansvi's Developer Banner](profile-banner.png)
-
----
 # Hey, I'm Mansvi 👋
 
 ### Exploring AI. Building with Purpose.
